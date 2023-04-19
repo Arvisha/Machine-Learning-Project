@@ -4,4 +4,4 @@
 application interface
 
 
-http://studentperformance-env-2.eba-bz4infsy.ap-south-1.elasticbeanstalk.com/predictdata
+http://studentperformance-env-2.eba-bz4infsy.ap-south-1.elasticbeanstalk.com
